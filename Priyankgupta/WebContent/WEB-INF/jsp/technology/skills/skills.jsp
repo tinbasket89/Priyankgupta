@@ -13,11 +13,10 @@
 		            </p>
 					<div class="bars">
 					   <ul class="skills">
-						    <li><span class="bar-expand photoshop"></span><em>Java EE</em></li>
-	                  		<li><span class="bar-expand illustrator"></span><em>Hippo CMS</em></li>
-							<li><span class="bar-expand wordpress"></span><em>Android</em></li>
+						    <li><span class="bar-expand java"></span><em>Java EE</em></li>
+	                  		<li><span class="bar-expand hippocms"></span><em>Hippo CMS</em></li>
+							<li><span class="bar-expand android"></span><em>Android</em></li>
 							<li><span class="bar-expand css"></span><em>CSS</em></li>
-							<li><span class="bar-expand html5"></span><em>HTML5</em></li>
 	                  		<li><span class="bar-expand jquery"></span><em>jQuery</em></li>
 	                  		<li><span class="bar-expand extjs"></span><em>Ext JS</em></li>
 						</ul>

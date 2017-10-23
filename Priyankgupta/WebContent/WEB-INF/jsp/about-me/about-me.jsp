@@ -12,11 +12,14 @@
 				   <div class="col-md-12">
 						<div class="about_top_content">
 							<i class="fa fa-quote-right"></i>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation...</p>
+							<p>Programming is my first and last love. From my work experience i have learn two thing technology has solution of problem and if you think then i can make it.
+								I always open to adopt, learn new technology and take challenges which create a excitement. 
+								Gadget freak, NFS Most wanted, Action & Adventurous Movie, Exploring Places. 
+							</p>
 						</div>
 						<div class="about_bottom_content">
 							<p>
-		                     	<a href="https://drive.google.com/open?id=0B0PoXAjy9e5cVFRtT2RqMEo0S3RMem9EREo2aGhmTTFkTmlz" class="button"><i class="fa fa-download"></i>Download Resume</a>
+		                     	<a href="https://drive.google.com/open?id=0B0PoXAjy9e5cVFRtT2RqMEo0S3RMem9EREo2aGhmTTFkTmlz" class="btn btn-success"><i class="fa fa-download"></i>Download Resume</a>
 		                  	</p>
 						</div>
 					</div>
